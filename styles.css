@@ -30,6 +30,21 @@ h2{
   text-align:center;
 }
 
+.subtitle{
+  margin:6px 0 18px 0;
+  text-align:center;
+  color:#344154;
+  font-size:0.98rem;
+}
+
+.tagline{
+  margin:6px 0 18px 0;
+  text-align:center;
+  color:#475569;
+  font-size:0.95rem;
+  font-weight:500;
+}
+
 .controls{
   display:flex;
   gap:8px;
